@@ -5,3 +5,8 @@ yfinance
 sqlalchemy
 fastapi
 uvicorn
+exa_py
+lancedb
+tantivy
+pypdf
+duckduckgo-search
