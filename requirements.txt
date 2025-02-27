@@ -10,3 +10,6 @@ lancedb
 tantivy
 pypdf
 duckduckgo-search
+googlesearch-python
+pycountry
+youtube_search
